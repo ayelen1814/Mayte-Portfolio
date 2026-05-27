@@ -202,7 +202,7 @@ En este repositorio se incluirán:
 [https://github.com/ayelen1814]
 
 🔗 LinkedIn:
-[inkedin.com/in/mayte-mato-bustamante-514662347/?skipRedirect=true]
+[(https://www.linkedin.com/in/mayte-mato-bustamante-514662347/)]
 
 ---
 
