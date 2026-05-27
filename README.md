@@ -148,7 +148,7 @@ Participación en actividades de análisis, diagramación y propuestas de soluci
 
 # EDUCACIÓN
 
-## SENATI
+## SENATI 
 
 Carrera: Ingeniería en Ciberseguridad
 
